@@ -14,6 +14,9 @@
 		<Item Name="Support" Type="Folder"/>
 		<Item Name="Path Images" Type="Folder"/>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
+		<Item Name="Generate Blend Points.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Generate Blend Points.vi"/>
+		<Item Name="Review Recipe for Overlap.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Review Recipe for Overlap.vi"/>
+		<Item Name="Determine Blend Time.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Determine Blend Time.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
