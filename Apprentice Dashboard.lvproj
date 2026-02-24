@@ -14,9 +14,11 @@
 		<Item Name="Support" Type="Folder"/>
 		<Item Name="Path Images" Type="Folder"/>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
+		<Item Name="Determine Blend Time.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Determine Blend Time.vi"/>
+		<Item Name="Draw Trajectory.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Drawing/Draw Trajectory.vi"/>
+		<Item Name="Draw Shapes.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Drawing/Draw Shapes.vi"/>
 		<Item Name="Generate Blend Points.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Generate Blend Points.vi"/>
 		<Item Name="Review Recipe for Overlap.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Review Recipe for Overlap.vi"/>
-		<Item Name="Determine Blend Time.vi" Type="VI" URL="../../LabVIEW Data/reefscape-dashboard/Support/Bordeaux/Trajectory/Clothoid/Determine Blend Time.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC_Dashboard" Type="EXE">
@@ -34,7 +36,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">20</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Dashboard.exe</Property>
